@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 <!-- WALLET-LINKING-BEGIN
 {
-  "lastUpdated": "2025-06-28T04:27:58.485Z",
+  "lastUpdated": "2025-06-29T01:06:42.166Z",
   "wallets": [
     {
       "chain": "ethereum",
-      "address": "0x23CA0c2219de2C5A6bf13B66897303c2766f3DE5"
+      "address": "0xE3Ba9817158bd0a935f85cC6ae6dFDaF708886de"
     },
     {
       "chain": "solana",
